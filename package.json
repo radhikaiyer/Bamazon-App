@@ -1,0 +1,24 @@
+{
+  "name": "Bamazon-App",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radhikaiyer93/Bamazon-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/radhikaiyer93/Bamazon-App/issues"
+  },
+  "homepage": "https://github.com/radhikaiyer93/Bamazon-App#readme",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "sql": "^0.78.0"
+  }
+}
